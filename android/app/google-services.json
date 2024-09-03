@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "869265678985",
+    "project_id": "palm-book",
+    "storage_bucket": "palm-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869265678985:android:7a620b061743ac653edc58",
+        "android_client_info": {
+          "package_name": "com.example.palmbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869265678985-j761okqseig7oe1g24ts36ge5bqgsnki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_n-2M1AO2BEY2kP7RoazY6NMZBT9pDkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869265678985-j761okqseig7oe1g24ts36ge5bqgsnki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869265678985-gav9sljn0b3qkk2buiggbj1olol393fd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.palmbookbmu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869265678985:android:70503774abf7b7ce3edc58",
+        "android_client_info": {
+          "package_name": "com.example.palmbookbmu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869265678985-j761okqseig7oe1g24ts36ge5bqgsnki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_n-2M1AO2BEY2kP7RoazY6NMZBT9pDkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869265678985-j761okqseig7oe1g24ts36ge5bqgsnki.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "869265678985-gav9sljn0b3qkk2buiggbj1olol393fd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.palmbookbmu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
